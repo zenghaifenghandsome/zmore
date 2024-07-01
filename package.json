@@ -71,7 +71,7 @@
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "playwright": "^1.42.1",
-    "prettier": "^3.2.5",
+    "prettier": "^3.3.2",
     "tree-kill": "^1.2.2",
     "typescript": "^5.4.3",
     "vite": "^5.2.6",
